@@ -1,0 +1,13 @@
+CLUSTERING
+
+1. Hierarchical Clustering (HC) -> dendrogram
+   1) Agglomerative (bottom-up): setiap objek dimulai sebagai cluster terpisah dan digabungkan hingga 				         menjadi satu cluster besar.
+
+   2) Divisive (top-down)      : dimulai dengan satu cluster besar yang dibagi menjadi cluster lebih kecil.
+
+
+2. Non-hierarchical Clustering (NHC)
+   1) K-Means Clustering
+   2) K-Medoids Clustering
+   3) DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+   4) Mean Shift Clustering
